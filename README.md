@@ -1,6 +1,6 @@
 Students studying in Computer Science &
 Engineering department of Ahsanullah University
-of Science & Technology cal calculate their CGPA
+of Science & Technology can calculate their CGPA
 using this app. The app will let users to save
 gpa of each semester.
 
